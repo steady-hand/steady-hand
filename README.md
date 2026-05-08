@@ -25,9 +25,7 @@ I am a software engineer focused on building robust applications and mastering t
 
 ### 📊 GitHub Metrics
 <p align="left">
-  <!-- Альтернативный сервис для общей статистики -->
   <img src="https://vercel.app" height="170" />
-  <!-- Альтернативный сервис для языков -->
   <img src="https://vercel.app" height="170" />
 </p>
 
