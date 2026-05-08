@@ -1,4 +1,4 @@
-# Hi, I'm Vlad 👋
+# Hi, I'm Vlad👋
 
 ### Java Backend Developer
 I am a software engineer focused on building robust applications and mastering the Java ecosystem through the [**Job4j**](https://job4j.ru) professional program.
