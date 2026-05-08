@@ -7,13 +7,8 @@ I am a software engineer focused on building robust applications and mastering t
 
 ### 🛠 Tech Stack
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
-  </a>
+  <img src="https://skillicons.dev" alt="My Skills" />
 </p>
-
-*   **Backend:** Java Core (OOP, Stream API, Multithreading), JDBC, Hibernate
-*   **Engineering:** JUnit (TDD), Maven, Docker, Git
 
 ---
 
@@ -24,11 +19,22 @@ I am a software engineer focused on building robust applications and mastering t
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Analytics
 <p align="left">
   <img src="https://vercel.app" height="170" />
   <img src="https://vercel.app" height="170" />
 </p>
+
+<p align="left">
+  <!-- Карточка со стриками (активность по дням) -->
+  <img src="https://herokuapp.com" height="170" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+<!-- Календарь активности в виде змейки или графика (может грузиться чуть дольше) -->
+<img src="https://vercel.app" alt="WakaTime Stats" height="170" />
 
 ---
 
