@@ -7,34 +7,29 @@ I am a software engineer focused on building robust applications and mastering t
 
 ### 🛠 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev" alt="My Skills" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </p>
 
 ---
 
 ### 📂 Key Projects
 
-*   [**Tracker1 System**](https://github.com) — Modern task management system (Java & PostgreSQL).
+*   [**Tracker1 System**](https://github.com) — Task management system (Java & PostgreSQL).
 *   [**Java Design & Architecture**](https://github.com) — Advanced logic and SOLID principles.
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Metrics
 <p align="left">
+  <!-- Альтернативный сервис для общей статистики -->
   <img src="https://vercel.app" height="170" />
+  <!-- Альтернативный сервис для языков -->
   <img src="https://vercel.app" height="170" />
 </p>
-
-<p align="left">
-  <!-- Карточка со стриками (активность по дням) -->
-  <img src="https://herokuapp.com" height="170" />
-</p>
-
----
-
-### 📈 Contribution Graph
-<!-- Календарь активности в виде змейки или графика (может грузиться чуть дольше) -->
-<img src="https://vercel.app" alt="WakaTime Stats" height="170" />
 
 ---
 
