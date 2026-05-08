@@ -18,7 +18,7 @@ I am a software engineer focused on building robust applications and mastering t
 
 ### 📂 Key Projects
 
-*   [**Tracker1 System**](https://github.com) — Task management system (Java & PostgreSQL).
+*   [**Tracker System**](https://github.com) — Task management system (Java & PostgreSQL).
 *   [**Java Design & Architecture**](https://github.com) — Advanced logic and SOLID principles.
 
 ---
