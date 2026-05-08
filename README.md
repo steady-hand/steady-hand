@@ -6,7 +6,9 @@ I am a software engineer focused on building robust applications and mastering t
 ---
 
 ### 🛠 Tech Stack
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+<p align="left">
+<img src="https://skillicons.dev" alt="My Skills" />
+</p>
 
 *   **Backend:** Java Core (OOP, Collections, Stream API, Multithreading)
 *   **Storage:** PostgreSQL (SQL, JDBC), Hibernate
@@ -29,12 +31,12 @@ A collection of advanced Java projects focusing on OOD, IO, and complex logic.
 
 ### 📊 GitHub Activity
 <p align="left">
-  <img src="https://vercel.app" alt="steady-hand's GitHub stats" height="170" />
-  <img src="https://vercel.app" alt="Top Langs" height="170" />
+<img src="https://vercel.app" alt="GitHub Stats" height="170" />
+<img src="https://vercel.app" alt="Top Languages" height="170" />
 </p>
 
 ---
 
 ### 📫 Connect with me:
 *   **Telegram:** [@steady_hand]
-*   **Email:** [v.gabrusenok10@gmail.com]
+*   **Email:** v.gabrusenok10@gmail.com
