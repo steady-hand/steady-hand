@@ -29,8 +29,8 @@ A collection of advanced Java projects focusing on OOD, IO, and complex logic.
 
 ### 📊 GitHub Activity
 <p align="left">
-<img height="180em" src="https://vercel.app" />
-<img height="180em" src="https://vercel.app" />
+  <img src="https://vercel.app" alt="steady-hand's GitHub stats" height="170" />
+  <img src="https://vercel.app" alt="Top Langs" height="170" />
 </p>
 
 ---
