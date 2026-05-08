@@ -6,29 +6,20 @@ I am a software engineer focused on building robust applications and mastering t
 ---
 
 ### 🛠 Tech Stack
-**Backend:**  
-`Java SE (Core, Collections, Stream API, Multithreading)`  
-`PostgreSQL (SQL, JDBC)`  
-`Hibernate`
 
-**Tools:**  
-`Maven` | `Git` | `Docker` | `JUnit (TDD)`
+*   **Backend:** Java SE (Core, Collections, Stream API, Multithreading), PostgreSQL (SQL, JDBC), Hibernate
+*   **Tools:** Maven, Git, Docker, JUnit (TDD)
+*   **Frontend:** HTML5, CSS3
 
 ---
 
 ### 📂 Key Projects
 
-*   [**Tracker System**](https://github.com) — Management application (Java, JDBC, Postgres).
-*   [**Java Design**](https://github.com) — Advanced logic, SOLID, and IO.
-
----
-
-### 📊 GitHub Activity
-<!-- Чтобы сбросить кэш, я добавил в конец ссылки случайный параметр ?v=1 -->
-<img src="https://vercel.app" alt="Stats" height="150" />
+*   [**Tracker System**](https://github.com) — Management application built with Java, JDBC, and Postgres.
+*   [**Java Design & Architecture**](https://github.com) — Advanced logic, SOLID principles, and IO.
 
 ---
 
 ### 📫 Connect with me:
-*   **Telegram:** [@steady_hand](https://t.me) 👈 
+*   **Telegram:** [@steady_hand](https://t.me) 👈 *Click to chat*
 *   **Email:** [v.gabrusenok10@gmail.com](mailto:v.gabrusenok10@gmail.com)
