@@ -38,5 +38,5 @@ A collection of advanced Java projects focusing on OOD, IO, and complex logic.
 ---
 
 ### 📫 Connect with me:
-*   **Telegram:** [@steady_hand]
-*   **Email:** v.gabrusenok10@gmail.com
+*   **Telegram:** [@steady_hand](https://t.me)
+*   **Email:** [v.gabrusenok10@gmail.com](mailto:v.gabrusenok10@gmail.com)
